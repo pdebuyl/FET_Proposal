@@ -1,6 +1,13 @@
-===========================
-README for the participants
-===========================
+======
+README
+======
+
+This template is based on the proposal files of `OpenDreamKit
+<https://github.com/OpenDreamKit/OpenDreamKit>`_, using `LaTeX-proposal
+<https://github.com/KWARC/LaTeX-proposal/>`_.
+
+It is set for the FET-Open program and has been cleared of any personal and/or
+project-specific references.
 
 What you need to do
 ===================
