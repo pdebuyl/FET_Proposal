@@ -8,6 +8,8 @@ This template is based on the proposal files of `OpenDreamKit
 
 It is set for the FET-Open program and has been cleared of any personal and/or
 project-specific references.
+The git history has been deleted to avoid carrying about 100MB of
+project-specific data.
 
 What you need to do
 ===================
